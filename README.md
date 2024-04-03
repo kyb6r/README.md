@@ -1,4 +1,4 @@
-<h1 align="center">Yo, Im Syulo</h1>
+<h1 align="center">Yo, Im Syulo / Assault</h1>
 <h2 align="center">abusing requests and torturing servers since '21</h2>
 
 <div align="center">
@@ -14,7 +14,8 @@ Im Syulo, I can code in python and is learning python gui. My main focus in term
 
 ## What I'm currently working on
 * Syulo Wizzer
-
+* Assault Nuker
+  
 ## Languages I know
 * Python
 
