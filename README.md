@@ -2,11 +2,11 @@
 <h2 align="center">abusing requests and torturing servers since '21</h2>
 
 <div align="center">
-
+  <img src="https://media.discordapp.net/attachments/1224812777038942229/1225005129057701960/hixabtds_400x400.jpg?ex=661f8dee&is=660d18ee&hm=5f0d27a6465bd3be2a52b55941fbcf8ae034898a40953cd64e15e2a1563f3a60&=&format=webp"></img>
 
   <img src="[https://discord.c99.nl/widget/theme-4/921558491255148615.png](https://discord.c99.nl/widget/theme-1/1086825885178536027.png)"></img>
+  
 
-  ![Syulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=verlox&show_icons=true&theme=radical)
 </div>
 
 ## About
