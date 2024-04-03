@@ -3,7 +3,6 @@
 
 <div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
 
   <img src="[https://discord.c99.nl/widget/theme-4/921558491255148615.png](https://discord.c99.nl/widget/theme-1/1086825885178536027.png)"></img>
 
